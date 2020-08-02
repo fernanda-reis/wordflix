@@ -1,0 +1,181 @@
+{
+  "categorias": [
+    {
+      "titulo": "Inglês",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Hello! How are you?",
+        "url": "https://www.youtube.com/results?search_query=ingl%C3%AAs"
+      },
+      "videos": [
+        {
+          "titulo": "Como se APRESENTAR em INGLÊS de Forma SIMPLES",
+          "url": "https://www.youtube.com/watch?v=o1YI76LFMIU"
+        },
+        {
+          "titulo": "Inglês com Música: Don't Start Now",
+          "url": "https://www.youtube.com/watch?v=YDTOaLXJkJM"
+        },
+        {
+          "titulo": "Membros da família em inglês: quem é quem?",
+          "url": "https://www.youtube.com/watch?v=wqph0VDWWNk"
+        },
+        {
+          "titulo": "INGLÊS NO RESTAURANTE",
+          "url": "https://www.youtube.com/watch?v=D-I9422m2o8"
+        },
+        {
+          "titulo": "Inglês Para Iniciantes: Roupas",
+          "url": "https://www.youtube.com/watch?v=K1kVrmEUk2E"
+        },
+        {
+          "titulo": "GÍRIAS MUITO USADAS EM INGLÊS",
+          "url": "https://www.youtube.com/watch?v=PYAJm5szOFM"
+        }      
+      ]
+    },
+    {
+      "titulo": "Espanhol",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Mi casa es su casa!",
+        "url": "https://www.youtube.com/results?search_query=espanhol"
+      },
+      "videos": [
+        {
+          "titulo": "¿Qué hora es? - Aprenda as horas em espanhol",
+          "url": "https://www.youtube.com/watch?v=-QJ9xYyl2UM"
+        },
+        {
+          "titulo": "SALUDOS, PRESENTACIONES Y DESPEDIDAS EN ESPAÑOL",
+          "url": "https://www.youtube.com/watch?v=4RSGcffwJ-Q"
+        },
+        {
+          "titulo": "Dias da Semana em Espanhol e Suas Origens",
+          "url": "https://www.youtube.com/watch?v=ZBIOUDpfV64"
+        },
+        {
+          "titulo": "5 SÉRIES para PRATICAR ESPANHOL no NETFLIX",
+          "url": "https://www.youtube.com/watch?v=yupZ2uKTA6I"
+        }, 
+        {
+          "titulo": "As Diferenças entre o Espanhol da Espanha e o Espanhol da América Latina",
+          "url": "https://www.youtube.com/watch?v=blSPHXb3cJo"
+        }
+      ]
+    },
+    {
+      "titulo": "Francês",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "La vie est belle!",
+        "url": "https://www.youtube.com/results?search_query=franc%C3%AAs"
+      },
+      "videos": [
+        {
+          "titulo": "50 Frases Básicas em Francês para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=J_rB5Qghu58"
+        },
+        {
+          "titulo": "As cores em francês",
+          "url": "https://www.youtube.com/watch?v=VKWW4sDzTQY"
+        },
+        {
+          "titulo": "Como xingar em francês? - Palavrões em francês",
+          "url": "https://www.youtube.com/watch?v=QWSqlfO1oNg"
+        },
+        {
+          "titulo": "Dica infalível para pronunciar o R no francês",
+          "url": "https://www.youtube.com/watch?v=nFmYwV4EWvg"
+        }
+      ]
+    },
+    {
+        "titulo": "Coreano",
+        "cor": "#FF3399",
+        "link_extra": {
+          "text": "화이팅!",
+          "url": "https://www.youtube.com/results?search_query=coreano"
+        },
+        "videos": [
+        {
+          "titulo": "Como se diz 'Oi, tudo bem?' em coreano?",
+          "url": "https://www.youtube.com/watch?v=5577TTaMzW0&t=25s"
+        },
+        {
+          "titulo": "Hangul - Alfabeto Coreano (vogais, consoantes e pronúncia)",
+          "url": "https://www.youtube.com/watch?v=TZXEOFhRvP4"
+        },
+        {
+          "titulo": "DICAS DE COMO APRENDER COREANO",
+          "url": "https://www.youtube.com/watch?v=XB09R8uOCPU"
+        },
+        {
+          "titulo": "Como falar expressões básicas em coreano",
+          "url": "https://www.youtube.com/watch?v=egRZ8iKIYlE"
+        }
+      ]
+    },
+    {
+      "titulo": "Japonês",
+      "cor": "red",
+      "link_extra": {
+        "text": "出身はどちらですか？",
+        "url": "https://www.youtube.com/results?search_query=japon%C3%AAs"
+      },
+      "videos": [
+        {
+          "titulo": "POR ONDE COMEÇAR a aprender japonês ? + materiais de estudos",
+          "url": "https://www.youtube.com/watch?v=Mb7DLLhOi1k"
+        },
+        {
+          "titulo": "AULA 01: HIRAGANA (Alfabeto Japonês)",
+          "url": "https://www.youtube.com/watch?v=C3Cn3G4ia00&t=553s"
+        },
+        {
+          "titulo": "Aula de Japonês “Saudações”",
+          "url": "https://www.youtube.com/watch?v=FcLIavVst0s"
+        },
+        {
+          "titulo": "Como aprender JAPONÊS com ANIMES",
+          "url": "https://www.youtube.com/watch?v=XcWDEzaI1DE"
+        },
+        {
+          "titulo": "MELHORES LIVROS PARA APRENDER LÍNGUA JAPONESA (Parte 1)",
+          "url": "https://www.youtube.com/watch?v=sagjkkb__9E"
+        }
+      ]
+    },
+    {
+      "titulo": "Russo",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Я тебя люблю!",
+        "url": "https://www.youtube.com/results?search_query=russo"
+      },
+      "videos": [
+        {
+          "titulo": "Alfabeto RUSSO em 4 minutos",
+          "url": "https://www.youtube.com/watch?v=N9UxDlbfjj8"
+        },
+        {
+          "titulo": "Frases úteis em RUSSO com pronúncia nativa",
+          "url": "https://www.youtube.com/watch?v=HqYRFqSelaY"
+        },
+        {
+          "titulo": "Russo sem Firula: Números",
+          "url": "https://www.youtube.com/watch?v=_E0WZU4rTBA"
+        },
+        {
+          "titulo": "Como dizer OBRIGADO em russo?",
+          "url": "https://www.youtube.com/watch?v=VOQxJ8mdoz4"
+        },
+        {
+          "titulo": "100 Frases em Russo Para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=YlRUdimqtXM"
+        }
+      ]
+    }
+  ]
+}
